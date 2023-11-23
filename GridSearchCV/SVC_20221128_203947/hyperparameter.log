@@ -1,0 +1,2 @@
+{'model__kernel': ['rbf', 'sigmoid'], 'model__degree': [3, 11, 19, 26]}
+Pipeline(steps=[('scaler', StandardScaler()), ('model', SVC(random_state=0))])

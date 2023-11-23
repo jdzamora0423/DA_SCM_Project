@@ -1,0 +1,4 @@
+{'model__n_neighbors': [3, 11, 21, 31, 41, 51, 61, 71, 81, 91]}
+Pipeline(steps=[('scaler', StandardScaler()),
+                ('model',
+                 KNeighborsClassifier(algorithm='ball_tree', n_neighbors=71))])

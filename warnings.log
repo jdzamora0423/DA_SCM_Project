@@ -1,0 +1,1340 @@
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:Adding TBB (D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\prophet\stan_model\cmdstan-2.26.1\stan\lib\stan_math\lib\tbb) to PATH
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\0k89oqom.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\1cve7irq.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=55748', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\0k89oqom.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\1cve7irq.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelie0id3jg\\prophet_model-20221129175440.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\w3mizlj4.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\k2u6n_xn.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=76263', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\w3mizlj4.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\k2u6n_xn.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modeledqfmorg\\prophet_model-20221129175441.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\2hrmv5e8.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\gucbc54_.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=747', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\2hrmv5e8.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\gucbc54_.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelh4qrclzu\\prophet_model-20221129175501.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\qwmjg7fq.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\k52brjq1.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=82211', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\qwmjg7fq.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\k52brjq1.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_model_etg8svz\\prophet_model-20221129175502.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:py.warnings:C:\Users\Justin\AppData\Local\Temp\ipykernel_19100\1639054029.py:1: FutureWarning: The default value of numeric_only in DataFrameGroupBy.sum is deprecated. In a future version, numeric_only will default to False. Either specify numeric_only or select only columns which should be valid for the function.
+  df_model_cat = pd.DataFrame(df_sale.groupby([df_sale['Order Date'].dt.strftime('%Y-%m'), 'Category']).sum())
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:tensorflow:5 out of the last 7 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000019AEFAA4550> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:tensorflow:6 out of the last 8 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000019AD7B933A0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:1009: UserWarning: Non-invertible starting seasonal moving average Using zeros as starting parameters.
+  warn('Non-invertible starting seasonal moving average'
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\f64kss5c.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\8_m_jhrs.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=78287', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\f64kss5c.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\8_m_jhrs.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelu90nnsmo\\prophet_model-20221129175610.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\u2ctcg8t.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\_zxiq9rd.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=4041', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\u2ctcg8t.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\_zxiq9rd.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_model_n5ads6j\\prophet_model-20221129175611.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\0axd6vx4.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\gsx3z58q.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=53463', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\0axd6vx4.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\gsx3z58q.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelci6p2mff\\prophet_model-20221129175612.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\0flihl7c.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\og293icd.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=2181', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\0flihl7c.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\og293icd.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_model43llajll\\prophet_model-20221129175613.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\s4yb7vcr.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\r9pt8ekm.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=98993', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\s4yb7vcr.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\r9pt8ekm.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelhtpnkp7q\\prophet_model-20221129175614.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\z8nf7nqv.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\burm054_.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=51703', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\z8nf7nqv.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\burm054_.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelaccsi40j\\prophet_model-20221129175615.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\0gx1myz4.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\arfe_tgj.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=67788', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\0gx1myz4.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\arfe_tgj.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modellpmezgiz\\prophet_model-20221129175711.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\6tc11ltz.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\jqy941hk.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=62938', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\6tc11ltz.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\jqy941hk.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelcb72wsx2\\prophet_model-20221129175711.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\longp0zs.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\79764974.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=45483', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\longp0zs.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\79764974.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_model_gbcqsdg\\prophet_model-20221129175713.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\gy65d73y.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\hnnafav4.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=25583', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\gy65d73y.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\hnnafav4.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_model5zrel43w\\prophet_model-20221129175713.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\3aycjiug.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\e8_sxk06.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=91893', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\3aycjiug.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\e8_sxk06.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelpke353bz\\prophet_model-20221129175715.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\grm2pt1g.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\83o86lmk.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=44243', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\grm2pt1g.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\83o86lmk.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modelwda9vyom\\prophet_model-20221129175715.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'add', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'add', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': None}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': True, 'initialization_method': 'heuristic'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: endog must be strictly positive when usingmultiplicative trend or seasonal components.
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:root:could not evaluate the paramaters: {'trend': 'mul', 'seasonal': 'mul', 'damped_trend': False, 'initialization_method': 'estimated'}. error: list index out of range
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\t8psnt5y.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\iadbezr8.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=27037', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\t8psnt5y.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\iadbezr8.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_model4_ybt5_h\\prophet_model-20221129212206.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\8qs02i6f.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\6r3plcvx.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=77978', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\8qs02i6f.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\6r3plcvx.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modellftltfy9\\prophet_model-20221129212207.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\graphics\tsaplots.py:348: FutureWarning: The default method 'yw' can produce PACF values outside of the [-1,1] interval. After 0.13, the default will change tounadjusted Yule-Walker ('ywm'). You can use this method now by setting method='ywm'.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\statespace\sarimax.py:866: UserWarning: Too few observations to estimate starting parameters for seasonal ARMA. All parameters except for variances will be set to zeros.
+  warn('Too few observations to estimate starting parameters%s.'
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:83: RuntimeWarning: overflow encountered in matmul
+  return err.T @ err
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+WARNING:py.warnings:D:\Program Files (x86)\Anaconda\envs\dascm\lib\site-packages\statsmodels\tsa\holtwinters\model.py:915: ConvergenceWarning: Optimization failed to converge. Check mle_retvals.
+  warnings.warn(
+
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\uh2u4r05.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\np_ailz1.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=27770', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\uh2u4r05.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\np_ailz1.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_model_6_ani2_\\prophet_model-20221129212243.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:TBB already found in load path
+INFO:prophet:Disabling weekly seasonality. Run prophet with weekly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\izcxjlfq.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\Justin\AppData\Local\Temp\tmppv9y7t79\oym2ectn.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['D:\\Program Files (x86)\\Anaconda\\envs\\dascm\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=81968', 'data', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\izcxjlfq.json', 'init=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\oym2ectn.json', 'output', 'file=C:\\Users\\Justin\\AppData\\Local\\Temp\\tmppv9y7t79\\prophet_modell046fd3u\\prophet_model-20221129212245.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
